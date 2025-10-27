@@ -103,3 +103,12 @@ python3 basics.py
 import cv2
 pip install cv2
 pip install opencv-python
+cd
+git add .
+git commit -m"first draft"
+git push
+git push --set-upstream upstream main
+cd Ben_Wakefield_git/
+git add .
+git commit -m"first draft"
+git push
