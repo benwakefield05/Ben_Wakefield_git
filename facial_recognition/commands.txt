@@ -1,0 +1,1 @@
+ to open remote venv310: source ~/Ben_Wakefield_git/facial_recognition/venv310/bin/activate
